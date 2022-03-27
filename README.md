@@ -1,6 +1,6 @@
 # EmployeeData---SGOP-Co.
 This project was implemented to collect employee data at SGOP Co.
-To install project for your machine. use XAMPP, and paste this files in C:\xampp\htdocs (for Win)
+To install project for your machine. use XAMPP, and paste these files in C:\xampp\htdocs (for Win)
 Default admins settings is: 
 
 Login: admins
